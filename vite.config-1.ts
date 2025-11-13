@@ -9,6 +9,9 @@
       extensions: ['.js', '.jsx', '.ts', '.tsx', '.json'],
        rollupOptions: {
       external: ['some-external-package']
+         }
+  }
+})
       alias: {
         'vaul@1.1.2': 'vaul',
         'sonner@2.0.3': 'sonner',
