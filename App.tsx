@@ -5,7 +5,8 @@ import { Footer } from "./components/Footer";
 import { SEO } from "./components/SEO";
 import { Home } from "./pages/Home";
 import { CaseStudyDetail } from "./pages/CaseStudyDetail";
-
+import React from "react";
+export default function App() { return <div>Hello</div>; }
 function ScrollToTop() {
   const { pathname, hash } = useLocation();
 
