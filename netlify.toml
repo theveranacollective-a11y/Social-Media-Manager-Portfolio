@@ -1,5 +1,5 @@
 [build]
-  build:    command: npm run build
+  command: npm run build
   commandOrigin: config
   publish: /opt/build/repo/dist
   publishOrigin: config
@@ -7,3 +7,4 @@
  - inputs: {}
    origin: ui
    package: netlify-purge-cloudflare-on-deploy
+
