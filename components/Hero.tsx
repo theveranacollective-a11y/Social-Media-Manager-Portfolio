@@ -7,7 +7,7 @@ import {
   CarouselItem,
   type CarouselApi,
 } from "./ui/carousel";
-import Autoplay from "embla-carousel-autoplay@8.6.0";
+import Autoplay from "embla-carousel-autoplay";
 import heroImage1 from "figma:asset/17e06c40d1a0c10e10226d5b9638938ea83a2a5d.png";
 import heroImage2 from "figma:asset/0dbd54bc91fa9905d694a7be414fe37c1017bed0.png";
 import heroImage3 from "figma:asset/50c298fd7064792635667726a16c33ede53575d9.png";
